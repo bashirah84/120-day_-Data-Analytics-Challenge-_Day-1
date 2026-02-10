@@ -83,3 +83,30 @@ This activity helped me to:
 
 Day 1 provided clarity and direction. I am committed to staying consistent, improving my technical skills, and preparing myself for opportunities in data, finance, and analytics.
 
+
+
+
+---
+
+## 📅 Day 2 – Portfolio Review and Learning
+
+### 📌 Overview
+On Day 2 of the 120 Days Data Analytics Challenge, I reviewed strong data analytics portfolios to understand what makes them stand out and attract employers.
+
+### ✅ What I Did
+- Reviewed top data analytics portfolio examples
+- Studied portfolio best practices
+- Analyzed how professionals present their projects
+- Learned how to document analytical processes
+
+### 🔍 Key Learnings
+- Uniqueness matters more than complexity
+- Strong portfolios showcase diverse technical skills
+- Problem-solving is a key differentiator
+- Clear documentation improves credibility
+- Storytelling makes insights meaningful
+- Employers value personal impact
+
+### 🧠 Reflection
+This session helped me understand how to present my projects with clarity, confidence, and purpose.  
+I am learning to build a portfolio that reflects both my skills and growth as a data analyst.
