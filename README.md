@@ -110,3 +110,28 @@ On Day 2 of the 120 Days Data Analytics Challenge, I reviewed strong data analyt
 ### 🧠 Reflection
 This session helped me understand how to present my projects with clarity, confidence, and purpose.  
 I am learning to build a portfolio that reflects both my skills and growth as a data analyst.
+
+
+## Day 8 – Guided Excel Sales Dashboard Project
+
+Project: Guided Excel Sales Dashboard inspired by @Nte Daniel
+
+What I worked on today:
+
+Explored and structured the dataset ✅
+
+Cleaned the data for accuracy ✅
+
+Started building Key Metrics (KPIs) using DAX measures ✅
+
+## Project Goal: Help an e-commerce company understand:
+
+Sales trends over time
+
+Customer purchasing patterns
+
+High-performing regions and products
+
+Progress: Dataset is structured and cleaned, and the framework for KPIs is in place. Next steps: complete KPI calculations and build dashboard visualizations.
+
+## Skills Practiced: Data cleaning, dataset structuring, KPI planning, use of DAX measures, guided project workflow.
