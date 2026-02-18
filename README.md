@@ -134,4 +134,14 @@ High-performing regions and products
 
 Progress: Dataset is structured and cleaned, and the framework for KPIs is in place. Next steps: complete KPI calculations and build dashboard visualizations.
 
-## Skills Practiced: Data cleaning, dataset structuring, KPI planning, use of DAX measures, guided project workflow.
+## Skills Practiced: Data cleaning, dataset structuring, KPI planning, use of DAX measures.
+
+
+# My Sales Dashboard Project
+
+Welcome to my 120 days data analytics challenge guided project.
+
+## Day 10
+Focused on analysis: time series by month, customer segment, product category, location.
+Pivot Tables helped me gain insights.
+Stopped at time intelligence to continue tomorrow.
